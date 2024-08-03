@@ -13,3 +13,6 @@
 // Some constants
 #define PI 3.1415926536
 
+// Some assets
+#define PLAYER "_[]_\n(oo)\nLYYJ\n HH"
+#define PROJECTILE "o"
